@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         改-万能验证码自动输入（升级版）
-// @namespace    https://localhost:5000/
-// @version      6.5
+// @namespace    http://localhost:5000/
+// @version      1.0
 // @description  自动识别填写英文、数字、滑动拼图、滑动行为等验证码，对于自动规则无法覆盖的验证码页面请手动配置规则。感谢老六、哈士奇两位大佬提供的帮助！
 // @author       改-crab
 // @match        *://*/*
